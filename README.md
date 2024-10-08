@@ -36,7 +36,8 @@ To set up the DevAsk project locally, follow these steps:
 
 2. **Navigate to the project directory**:
   ```bash
-  cd dev_ask
+  cd dev_ask 
+   ```
 
 3. **Set up the database**:
   Create a MySQL database named dev_ask.
